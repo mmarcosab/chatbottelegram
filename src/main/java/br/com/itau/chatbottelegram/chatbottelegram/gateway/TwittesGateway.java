@@ -1,8 +1,7 @@
 package br.com.itau.chatbottelegram.chatbottelegram.gateway;
 
-import org.springframework.stereotype.Component;
+import br.com.itau.chatbottelegram.chatbottelegram.gateway.response.DataResponse;
 
-@Component
 public interface TwittesGateway {
-
+    DataResponse getTwittesByTag(String tag);
 }
