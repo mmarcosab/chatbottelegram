@@ -10,8 +10,8 @@ import java.util.List;
 @NoArgsConstructor
 public class DataResponse {
 
-    private List<TwitteResponse> twittes;
+    List<String> usersMostFollowed;
     private int quantityInPortuguese;
     private int quantityPerHour;
-
+    
 }
