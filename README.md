@@ -1,7 +1,8 @@
 Informações:
  - Java 8
  - Spring Boot 2.3.4.RELEASE
- - Lombok 
+ - A aplicação utiliza Lombok
+ - A aplicação está estruturada na clean architecture 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3> Instruções para uso: </h3>
 
